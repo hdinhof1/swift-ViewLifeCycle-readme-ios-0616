@@ -8,6 +8,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("viewDidLoad() called")
+        //new text
         view.backgroundColor = UIColor.randomColor()
     }
 
